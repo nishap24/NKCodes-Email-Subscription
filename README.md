@@ -18,7 +18,7 @@ NK Codes💛-Email Subscription is a simple website template that allows users t
 
 Live Demo:
 
-    
+  https://nishap24.github.io/NKCodes-Email-Subscription/  
 ## Getting Started:
 
 To use the NK Codes💛-Email Subscription website template and integrate it with Google Sheets, follow these steps:
