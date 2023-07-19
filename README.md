@@ -85,6 +85,12 @@ Note: The form-to-Google Sheets integration is facilitated by the referenced rep
 
 - Scalable Form: Extend the form to collect additional information and store it in Google Sheets.
 
+
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d70e6a5-1892-4efb-bcc5-7080c8f51c9a/deploy-status)](https://app.netlify.com/sites/kanasu-email-subscription/deploys)
+
+
 ## Contributing
 
 Contributions are always welcome!
